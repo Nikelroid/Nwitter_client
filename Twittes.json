@@ -1,0 +1,911 @@
+[
+  {
+    "text": "test1",
+    "sender": "sam",
+    "likes": [
+      "Likes:",
+      "1412185211"
+    ],
+    "comments": [
+      0,
+      1000098
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000022,
+    "time": "2021/03/29 02:43:42"
+  },
+  {
+    "text": "test2",
+    "sender": "sam",
+    "likes": [
+      "Likes:",
+      "mkel",
+      "are"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000023,
+    "time": "2021/03/29 02:43:47"
+  },
+  {
+    "text": "test3",
+    "sender": "sam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000078
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000024,
+    "time": "2021/03/29 02:43:50"
+  },
+  {
+    "text": "test4",
+    "sender": "sam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000081,
+      1000082,
+      1000089,
+      1000092
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000025,
+    "time": "2021/03/29 02:43:54"
+  },
+  {
+    "text": "test5",
+    "sender": "sam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000070,
+      1000099,
+      1000100
+    ],
+    "retwittes": [
+      "Retwittes:",
+      "are"
+    ],
+    "serial": 1000026,
+    "time": "2021/03/29 02:43:58"
+  },
+  {
+    "text": "hello guys :\u003e\u003e\u003e",
+    "sender": "sam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000027,
+    "time": "2021/03/29 06:38:38"
+  },
+  {
+    "text": "vaghti atse mikonim ...",
+    "sender": "kamin",
+    "likes": [
+      "Likes:",
+      "koasas"
+    ],
+    "comments": [
+      0,
+      1000079
+    ],
+    "retwittes": [
+      "Retwittes:",
+      "koasas"
+    ],
+    "serial": 1000029,
+    "time": "2021/03/29 07:50:44"
+  },
+  {
+    "text": "marg bar amrika",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000097
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000070,
+    "time": "2021/03/29 23:29:23"
+  },
+  {
+    "text": "arez mibine !",
+    "sender": "sam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000078,
+    "time": "2021/03/30 07:44:07"
+  },
+  {
+    "text": "yeah baby",
+    "sender": "sam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000079,
+    "time": "2021/03/30 07:45:09"
+  },
+  {
+    "text": "helo im arez",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000086,
+      1000087
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000080,
+    "time": "2021/03/30 07:55:09"
+  },
+  {
+    "text": "salam",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000081,
+    "time": "2021/03/30 22:29:18"
+  },
+  {
+    "text": "khoobi",
+    "sender": "are",
+    "likes": [
+      "Likes:",
+      "are"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000082,
+    "time": "2021/03/30 22:29:32"
+  },
+  {
+    "text": "salaaaaaaaaaam",
+    "sender": "jam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000083,
+    "time": "2021/03/31 11:39:13"
+  },
+  {
+    "text": "hi",
+    "sender": "jam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000084,
+    "time": "2021/03/31 11:39:27"
+  },
+  {
+    "text": "saaaaalaaaaam",
+    "sender": "jam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:",
+      "jam",
+      "sam",
+      "seg",
+      "mkel",
+      "samkel",
+      "are"
+    ],
+    "serial": 1000085,
+    "time": "2021/03/31 11:39:32"
+  },
+  {
+    "text": "sal",
+    "sender": "jam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000086,
+    "time": "2021/03/31 11:44:29"
+  },
+  {
+    "text": "heeell",
+    "sender": "jam",
+    "likes": [
+      "Likes:",
+      "are",
+      "seg"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000087,
+    "time": "2021/03/31 11:44:36"
+  },
+  {
+    "text": "helllo",
+    "sender": "mkel",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000088,
+    "time": "2021/03/31 20:50:05"
+  },
+  {
+    "text": "heheheheeh",
+    "sender": "ali",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000089,
+    "time": "2021/03/31 22:10:47"
+  },
+  {
+    "text": "mkel",
+    "sender": "ali",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000090,
+    "time": "2021/03/31 22:11:41"
+  },
+  {
+    "text": "salaaaamauhvufnvu",
+    "sender": "are",
+    "likes": [
+      "Likes:",
+      "are"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000091,
+    "time": "2021/04/01 11:26:20"
+  },
+  {
+    "text": "rarara",
+    "sender": "ali",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000092,
+    "time": "2021/04/01 11:36:31"
+  },
+  {
+    "text": "nkscmac",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000094,
+    "time": "2021/04/02 03:57:04"
+  },
+  {
+    "text": "hello",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000095,
+    "time": "2021/04/02 05:01:48"
+  },
+  {
+    "text": "lili hozak!",
+    "sender": "sam",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000096,
+    "time": "2021/04/02 05:03:39"
+  },
+  {
+    "text": "umare khaayaaam",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000101
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000097,
+    "time": "2021/05/01 22:35:51"
+  },
+  {
+    "text": "hi",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000098,
+    "time": "2021/05/01 22:54:50"
+  },
+  {
+    "text": "hi",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000102
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000099,
+    "time": "2021/05/03 01:03:53"
+  },
+  {
+    "text": "bin",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000100,
+    "time": "2021/05/03 01:04:15"
+  },
+  {
+    "text": "babe",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000101,
+    "time": "2021/05/03 01:08:36"
+  },
+  {
+    "text": "hi",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000103
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000102,
+    "time": "2021/05/03 01:53:33"
+  },
+  {
+    "text": "hi",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000103,
+    "time": "2021/05/03 01:54:43"
+  },
+  {
+    "text": "salam man ooomadaaaam !!!",
+    "sender": "Atishi",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000105
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000104,
+    "time": "2021/05/03 19:36:11"
+  },
+  {
+    "text": "Atiiiiishiiii!",
+    "sender": "are",
+    "likes": [
+      "Likes:",
+      "are"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000105,
+    "time": "2021/05/03 23:57:04"
+  },
+  {
+    "text": "mani khara",
+    "sender": "nik",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000109,
+      1000111,
+      1000112,
+      1000113,
+      1000116
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000106,
+    "time": "2021/05/07 12:58:09"
+  },
+  {
+    "text": "salam guys!",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000107,
+    "time": "2021/05/07 16:55:19"
+  },
+  {
+    "text": "jasam",
+    "sender": "are",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000120
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000108,
+    "time": "2021/05/07 16:58:07"
+  },
+  {
+    "text": "heeey",
+    "sender": "seg",
+    "likes": [
+      "Likes:",
+      "seg"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000109,
+    "time": "2021/05/13 01:13:21"
+  },
+  {
+    "text": "وااای چقد سگگم من!",
+    "sender": "seg",
+    "likes": [
+      "Likes:",
+      "seg"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:",
+      "seg"
+    ],
+    "serial": 1000110,
+    "time": "2021/05/13 11:18:07"
+  },
+  {
+    "text": "hiii",
+    "sender": "seg",
+    "likes": [
+      "Likes:",
+      "seg"
+    ],
+    "comments": [
+      0,
+      1000114
+    ],
+    "retwittes": [
+      "Retwittes:",
+      "seg"
+    ],
+    "serial": 1000111,
+    "time": "2021/05/13 23:21:27"
+  },
+  {
+    "text": "kkkkkk",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000112,
+    "time": "2021/05/13 23:35:25"
+  },
+  {
+    "text": "io",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0,
+      1000115
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000113,
+    "time": "2021/05/14 01:08:16"
+  },
+  {
+    "text": "hi bar to",
+    "sender": "seg",
+    "likes": [
+      "Likes:",
+      "seg"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000114,
+    "time": "2021/05/14 02:12:57"
+  },
+  {
+    "text": "bye",
+    "sender": "seg",
+    "likes": [
+      "Likes:",
+      "seg"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:",
+      "seg"
+    ],
+    "serial": 1000115,
+    "time": "2021/05/14 10:50:42"
+  },
+  {
+    "text": "ramin",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000116,
+    "time": "2021/05/14 11:12:57"
+  },
+  {
+    "text": "Text input component that allows a user to enter multiple lines of plain text. Unlike in previous releases of JavaFX, support for single line input is not available as part of the TextArea control, however this is the sole-purpose of the TextField control. Additionally, if you want a form of rich-text editing, there is also the HTMLEditor control.\nTextArea supports the notion of showing prompt text to the user when there is no text already in the TextArea (either via the user, or set programmatically). This is a useful way of informing the user as to what is expected in the text area, without having to resort to tooltips or on-screen labels.",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000117,
+    "time": "2021/05/14 23:13:04"
+  },
+  {
+    "text": "hi there",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000118,
+    "time": "2021/05/15 00:02:46"
+  },
+  {
+    "text": "jaja",
+    "sender": "samkel",
+    "likes": [
+      "Likes:",
+      "samkel"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000119,
+    "time": "2021/05/16 00:44:16"
+  },
+  {
+    "text": "slm",
+    "sender": "samkel",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000120,
+    "time": "2021/05/18 16:52:57"
+  },
+  {
+    "text": "baya kon!",
+    "sender": "seg",
+    "likes": [
+      "Likes:",
+      "seg"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000121,
+    "time": "2021/05/18 23:36:35"
+  },
+  {
+    "text": "bayan",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000122,
+    "time": "2021/05/18 23:39:03"
+  },
+  {
+    "text": "ia",
+    "sender": "seg",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000123,
+    "time": "2021/05/19 04:14:06"
+  },
+  {
+    "text": "dorm:)",
+    "sender": "seg",
+    "likes": [
+      "Likes:",
+      "samkel"
+    ],
+    "comments": [
+      0,
+      1000125
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000124,
+    "time": "2021/05/19 04:14:25"
+  },
+  {
+    "text": "che khoon :)",
+    "sender": "samkel",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000125,
+    "time": "2021/05/19 04:18:02"
+  },
+  {
+    "text": "ii",
+    "sender": "mkel",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000126,
+    "time": "2021/07/28 00:29:39"
+  },
+  {
+    "text": " ",
+    "sender": "mkel",
+    "likes": [
+      "Likes:"
+    ],
+    "comments": [
+      0
+    ],
+    "retwittes": [
+      "Retwittes:"
+    ],
+    "serial": 1000127,
+    "time": "2021/07/28 00:29:55"
+  }
+]

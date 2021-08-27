@@ -1,0 +1,322 @@
+[
+  {
+    "text": "^( Shared twiite from mojtaba ): twitte 1 az moshtaba",
+    "sender": "mohammad",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 19:38:06",
+    "id": 1000010
+  },
+  {
+    "text": "axe 1",
+    "sender": "mohammad",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 19:44:57",
+    "id": 1000012
+  },
+  {
+    "text": "@nima in pesare khubie",
+    "sender": "sadat",
+    "receiver": "mohammad",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 19:46:46",
+    "id": 1000013
+  },
+  {
+    "text": "bia tu gp inam linkesh @gp_sharif bia",
+    "sender": "mohammad",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 19:51:05",
+    "id": 1000015
+  },
+  {
+    "text": "slm",
+    "sender": "sadat",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 19:51:23",
+    "id": 1000016
+  },
+  {
+    "text": "salam in pm bayad 7:53:30 biad",
+    "sender": "mohammad",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 19:53:30",
+    "id": 1000017
+  },
+  {
+    "text": "salam in pm bayad 7:53:30 biad",
+    "sender": "mohammad",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 19:53:30",
+    "id": 1000018
+  },
+  {
+    "text": "salam mojadad",
+    "sender": "mohammad",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 19:55:54",
+    "id": 1000019
+  },
+  {
+    "text": "%XO_bot/[36e94f4a:17b7defba95:-7f",
+    "sender": "mohammad",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:01:22",
+    "id": 1000028
+  },
+  {
+    "text": "%[36e94f4a:17b7defba95:-7f",
+    "sender": "sadat",
+    "receiver": "XO_bot",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:01:28",
+    "id": 1000029
+  },
+  {
+    "text": "Game Started, You are (O).  -mohammad\u0027s turn- Insert a number between 1 and 9. inserted house will be yours",
+    "sender": "XO_bot",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:01:29",
+    "id": 1000031
+  },
+  {
+    "text": "Your turn.",
+    "sender": "XO_bot",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:01:56",
+    "id": 1000034
+  },
+  {
+    "text": "1",
+    "sender": "sadat",
+    "receiver": "XO_bot",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:02:04",
+    "id": 1000035
+  },
+  {
+    "text": "mohammad\u0027s turn.",
+    "sender": "XO_bot",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:02:05",
+    "id": 1000037
+  },
+  {
+    "text": "Your turn.",
+    "sender": "XO_bot",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:02:46",
+    "id": 1000040
+  },
+  {
+    "text": "4",
+    "sender": "sadat",
+    "receiver": "XO_bot",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:03:05",
+    "id": 1000041
+  },
+  {
+    "text": "mohammad\u0027s turn.",
+    "sender": "XO_bot",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:03:06",
+    "id": 1000043
+  },
+  {
+    "text": "You lose :(",
+    "sender": "XO_bot",
+    "receiver": "sadat",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:03:15",
+    "id": 1000046
+  },
+  {
+    "text": "/vote",
+    "sender": "mohammad",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:08:29",
+    "id": 1000048
+  },
+  {
+    "text": "Bot started. reply this message question in this format  q[YOUR QUESTION]",
+    "sender": "Vote_bot",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:08:30",
+    "id": 1000049
+  },
+  {
+    "text": "/q[Kodam behtar ast?]",
+    "sender": "mohammad",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:09:37",
+    "id": 1000050
+  },
+  {
+    "text": "Question submitted. reply this message options in this format  o[OPTION]",
+    "sender": "Vote_bot",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:09:38",
+    "id": 1000051
+  },
+  {
+    "text": "/o[ali]",
+    "sender": "mohammad",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:10:03",
+    "id": 1000052
+  },
+  {
+    "text": "Option submitted. reply another option in the same format",
+    "sender": "Vote_bot",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:10:04",
+    "id": 1000053
+  },
+  {
+    "text": "/o[reza]",
+    "sender": "mohammad",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:10:13",
+    "id": 1000054
+  },
+  {
+    "text": "Option submitted. reply another option in the same format or reply \"create\" command and vote by  /ANSWER",
+    "sender": "Vote_bot",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:10:14",
+    "id": 1000055
+  },
+  {
+    "text": "/create",
+    "sender": "mohammad",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:11:24",
+    "id": 1000056
+  },
+  {
+    "text": "Vote: Kodam behtar ast?  options: 1-ali \u003e(0)  | 2-reza \u003e(0) ",
+    "sender": "Vote_bot",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:11:25",
+    "id": 1000057
+  },
+  {
+    "text": "/1",
+    "sender": "mohammad",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:11:42",
+    "id": 1000058
+  },
+  {
+    "text": "Vote: Kodam behtar ast?  options: 1-ali \u003e(1)  | 2-reza \u003e(0) ",
+    "sender": "Vote_bot",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:11:43",
+    "id": 1000059
+  },
+  {
+    "text": "/1",
+    "sender": "mojtaba",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:11:51",
+    "id": 1000060
+  },
+  {
+    "text": "Vote: Kodam behtar ast?  options: 1-ali \u003e(2)  | 2-reza \u003e(0) ",
+    "sender": "Vote_bot",
+    "receiver": "*sharif",
+    "seen": true,
+    "delivered": true,
+    "sent": true,
+    "time": "2021/08/25 20:11:52",
+    "id": 1000061
+  }
+]
