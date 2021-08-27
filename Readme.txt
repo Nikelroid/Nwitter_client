@@ -1,3 +1,5 @@
+# Nwitter_Client
+
 با سلام. این پروژه با جاوا 15 ساخته شده است. 
 از آنجا که برنامه با کتابحانه ی 
 javafx
@@ -21,8 +23,3 @@ JavaFX Windows SDK
 پس از آن هم نشد اما فایل کتابخانه ها در گوگل درایو به لینک زیر آپلود شد:
 
 https://drive.google.com/file/d/174JtDoFYNOXHxwAt7ir7gPjp_C-TXhjz/view?usp=sharing
-
-
-
-نیما کلیدری
-98108124
